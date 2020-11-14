@@ -1,3 +1,4 @@
 .image_clamp {
-  max-width: 10ch;
+  width: 50ch;
+  max-width: 100%;
 }
